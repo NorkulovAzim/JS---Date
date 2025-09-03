@@ -1,20 +1,21 @@
-// const str = "JavaScript";
-// console.log(str.charAt(1)); // "S"
+//class//
+/*const str = "JavaScript";
+console.log(str.charAt(1)); // "S"
 
-// const str = "JavaScript";
-// console.log(str.charCodeAt(4)); // 83
+const str = "JavaScript";
+console.log(str.charCodeAt(4)); // 83
 
-// const str1 = "Hello";
-// const str2 = "World";
-// console.log(str1.concat(" ", str2, "!")); // "Hello World!"
+const str1 = "Hello";
+const str2 = "World";
+console.log(str1.concat(" ", str2, "!")); // "Hello World!"
 
-// const str = "Learn JavaScript";
-// console.log(str.includes("Java")); // true
-// console.log(str.includes("Python")); // false
+const str = "Learn JavaScript";
+console.log(str.includes("Java")); // true
+console.log(str.includes("Python")); // false
 
-// const str = "frontend.js";
-// console.log(str.endsWith(".js")); // true
-// console.log(str.endsWith(".ts")); // false
+const str = "frontend.js";
+console.log(str.endsWith(".js")); // true
+console.log(str.endsWith(".ts")); // false */
 
 //string2//
 // let n = 67;
